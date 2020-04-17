@@ -159,6 +159,7 @@
             // BtnCheckBox
             // 
             this.BtnCheckBox.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnCheckBox.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnCheckBox.Location = new System.Drawing.Point(169, 43);
             this.BtnCheckBox.Name = "BtnCheckBox";
             this.BtnCheckBox.Size = new System.Drawing.Size(103, 36);
@@ -170,6 +171,7 @@
             // BtnCombo
             // 
             this.BtnCombo.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnCombo.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnCombo.Location = new System.Drawing.Point(107, 102);
             this.BtnCombo.Name = "BtnCombo";
             this.BtnCombo.Size = new System.Drawing.Size(108, 35);
@@ -181,6 +183,7 @@
             // BtnRadio
             // 
             this.BtnRadio.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnRadio.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnRadio.Location = new System.Drawing.Point(34, 43);
             this.BtnRadio.Name = "BtnRadio";
             this.BtnRadio.Size = new System.Drawing.Size(102, 36);
@@ -207,6 +210,7 @@
             // BtnGroupieApp
             // 
             this.BtnGroupieApp.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnGroupieApp.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnGroupieApp.Location = new System.Drawing.Point(151, 80);
             this.BtnGroupieApp.Name = "BtnGroupieApp";
             this.BtnGroupieApp.Size = new System.Drawing.Size(117, 43);
@@ -217,6 +221,7 @@
             // BtnPictureBox2
             // 
             this.BtnPictureBox2.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnPictureBox2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnPictureBox2.Location = new System.Drawing.Point(19, 81);
             this.BtnPictureBox2.Name = "BtnPictureBox2";
             this.BtnPictureBox2.Size = new System.Drawing.Size(117, 42);
@@ -227,6 +232,7 @@
             // BtnSelfieApp
             // 
             this.BtnSelfieApp.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnSelfieApp.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnSelfieApp.Location = new System.Drawing.Point(151, 32);
             this.BtnSelfieApp.Name = "BtnSelfieApp";
             this.BtnSelfieApp.Size = new System.Drawing.Size(117, 34);
@@ -237,6 +243,7 @@
             // BtnPictureBox
             // 
             this.BtnPictureBox.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnPictureBox.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnPictureBox.Location = new System.Drawing.Point(19, 32);
             this.BtnPictureBox.Name = "BtnPictureBox";
             this.BtnPictureBox.Size = new System.Drawing.Size(117, 34);
@@ -263,6 +270,7 @@
             // BtnRandomCom
             // 
             this.BtnRandomCom.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnRandomCom.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnRandomCom.Location = new System.Drawing.Point(151, 92);
             this.BtnRandomCom.Name = "BtnRandomCom";
             this.BtnRandomCom.Size = new System.Drawing.Size(117, 38);
@@ -274,6 +282,7 @@
             // BtnRandom
             // 
             this.BtnRandom.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnRandom.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnRandom.Location = new System.Drawing.Point(19, 92);
             this.BtnRandom.Name = "BtnRandom";
             this.BtnRandom.Size = new System.Drawing.Size(117, 41);
@@ -285,6 +294,7 @@
             // BtnTimer
             // 
             this.BtnTimer.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnTimer.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnTimer.Location = new System.Drawing.Point(151, 33);
             this.BtnTimer.Name = "BtnTimer";
             this.BtnTimer.Size = new System.Drawing.Size(117, 40);
@@ -295,6 +305,7 @@
             // BtnProgress
             // 
             this.BtnProgress.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnProgress.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnProgress.Location = new System.Drawing.Point(19, 33);
             this.BtnProgress.Name = "BtnProgress";
             this.BtnProgress.Size = new System.Drawing.Size(117, 40);
@@ -318,6 +329,7 @@
             // BtnTalk
             // 
             this.BtnTalk.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnTalk.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnTalk.Location = new System.Drawing.Point(151, 51);
             this.BtnTalk.Name = "BtnTalk";
             this.BtnTalk.Size = new System.Drawing.Size(117, 35);
@@ -328,6 +340,7 @@
             // BtnDraw
             // 
             this.BtnDraw.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnDraw.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnDraw.Location = new System.Drawing.Point(19, 46);
             this.BtnDraw.Name = "BtnDraw";
             this.BtnDraw.Size = new System.Drawing.Size(117, 40);
@@ -353,6 +366,7 @@
             // BtnJohari
             // 
             this.BtnJohari.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnJohari.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnJohari.Location = new System.Drawing.Point(46, 308);
             this.BtnJohari.Name = "BtnJohari";
             this.BtnJohari.Size = new System.Drawing.Size(207, 48);
@@ -363,6 +377,7 @@
             // BtnABCAnalysis
             // 
             this.BtnABCAnalysis.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnABCAnalysis.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnABCAnalysis.Location = new System.Drawing.Point(45, 228);
             this.BtnABCAnalysis.Name = "BtnABCAnalysis";
             this.BtnABCAnalysis.Size = new System.Drawing.Size(209, 52);
@@ -373,6 +388,7 @@
             // BtnRobotic
             // 
             this.BtnRobotic.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnRobotic.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnRobotic.Location = new System.Drawing.Point(46, 146);
             this.BtnRobotic.Name = "BtnRobotic";
             this.BtnRobotic.Size = new System.Drawing.Size(208, 52);
@@ -383,6 +399,7 @@
             // BtnManufacturing
             // 
             this.BtnManufacturing.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnManufacturing.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnManufacturing.Location = new System.Drawing.Point(47, 59);
             this.BtnManufacturing.Name = "BtnManufacturing";
             this.BtnManufacturing.Size = new System.Drawing.Size(208, 51);
@@ -405,6 +422,7 @@
             // BtnArduino
             // 
             this.BtnArduino.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BtnArduino.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnArduino.Location = new System.Drawing.Point(36, 51);
             this.BtnArduino.Name = "BtnArduino";
             this.BtnArduino.Size = new System.Drawing.Size(200, 43);
